@@ -1,1 +1,2 @@
 I am learning GitHub today for the first time.
+I am trying to make changes in the branch called NewBranch.
